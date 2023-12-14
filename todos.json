@@ -1,0 +1,63 @@
+ [
+    {
+      "id": 1,
+      "task": "Complete coding assignment",
+      "created": "2023-01-15T09:00:00",
+      "content": "Finish the coding assignment on data structures and algorithms."
+    },
+    {
+      "id": 2,
+      "task": "Read a book",
+      "created": "2023-01-15T12:30:00",
+      "content": "Spend 30 minutes reading a book of your choice."
+    },
+    {
+      "id": 3,
+      "task": "Exercise",
+      "created": "2023-01-15T15:45:00",
+      "content": "Go for a 45-minute jog in the park."
+    },
+    {
+      "id": 4,
+      "task": "Write a blog post",
+      "created": "2023-01-16T10:15:00",
+      "content": "Draft a blog post about a recent technology trend."
+    },
+    {
+      "id": 5,
+      "task": "Learn a new recipe",
+      "created": "2023-01-16T14:00:00",
+      "content": "Experiment with cooking a new recipe for dinner."
+    },
+    {
+      "id": 6,
+      "task": "Attend a webinar",
+      "created": "2023-01-17T11:30:00",
+      "content": "Join the webinar on machine learning best practices."
+    },
+    {
+      "id": 7,
+      "task": "Organize workspace",
+      "created": "2023-01-17T15:00:00",
+      "content": "Declutter and organize your workspace for better productivity."
+    },
+    {
+      "id": 8,
+      "task": "Practice coding challenges",
+      "created": "2023-01-18T08:45:00",
+      "content": "Solve a set of coding challenges to enhance programming skills."
+    },
+    {
+      "id": 9,
+      "task": "Watch a documentary",
+      "created": "2023-01-18T13:20:00",
+      "content": "Explore a documentary on a historical event or scientific discovery."
+    },
+    {
+      "id": 10,
+      "task": "Plan weekend activities",
+      "created": "2023-01-19T09:30:00",
+      "content": "Make a list of activities for the upcoming weekend with friends and family."
+    }
+  ]
+  

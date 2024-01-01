@@ -6,6 +6,10 @@ import { app } from './app.js';
 dotenv.config({path: './env'});
 
 
+app.get("/",(req,res)=>{
+    res.send(`<h1>Hello ji</h1>`)
+})
+
 connectDB().then(()=>{
 
    app.listen(process.env.PORT,()=>{
